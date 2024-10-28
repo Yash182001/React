@@ -1,0 +1,44 @@
+.image{
+    display: flex;
+    width: 50%;
+    margin-left: 150px;
+    
+    align-items: center;
+    margin-top: 100px;
+}
+
+.output{
+    display: flex;
+    margin-left: 150px;
+  
+}
+
+.img{
+    height: 80px;
+}
+
+.drag{
+    margin-top: 10px;
+    margin-left: 75px;
+    width: 50%;
+    height: 200px;
+    
+   
+}
+
+.text{
+    margin-top: 100px;
+    margin-left: 50px;
+    color: blue;
+}
+
+
+.preview{
+    margin-left: 50px;
+    color: blue;
+    margin-top: 20px;
+}
+
+.close{
+    width: 25px;
+}

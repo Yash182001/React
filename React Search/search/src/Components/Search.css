@@ -1,0 +1,28 @@
+.search{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+}
+
+h4{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchbox{
+    width: 20%;
+    margin-bottom: 20px;
+}
+
+.searchd{
+  
+  display: flex;
+  margin: auto;
+  border: 1px solid black;
+  margin-top:50px;
+  margin-bottom: 30px;
+}
+
+

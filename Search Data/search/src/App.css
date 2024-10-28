@@ -1,0 +1,11 @@
+.search{
+  width: 50%;
+  display: flex;
+  margin: auto;
+  border: 1px solid black;
+  margin-top:200px;
+}
+
+.button{
+  margin: 25px 50px
+}

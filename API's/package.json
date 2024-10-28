@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-api-data": "^1.2.0",
+    "reactstrap": "^9.2.2"
+  }
+}

@@ -1,0 +1,40 @@
+.form{
+    width: 35%;
+    border: 1px solid black;
+    display: flex;
+    margin-top: 200px;
+    margin-left: 500px;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 25px;
+    /* box-shadow: 5px 5px 40px 5px #0f3443; */
+  }
+
+  #Email, #Password{
+    width: 75%;
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    background-color: #eaeaea;
+    
+  }
+  
+  .button-container{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+  
+  
+  .header{
+    text-align:  center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 32px;
+    color: #0f3443;
+    font-weight: 700;
+    text-decoration-line: underline;   
+  }

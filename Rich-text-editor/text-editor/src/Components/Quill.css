@@ -1,0 +1,39 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-bottom: 5vh;
+    text-align: center;
+    padding: 12px;
+    background-color: #282c34;
+
+}
+
+.ql-container {
+    border-bottom-left-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+    background: #fefcfc;
+    width: 60%;
+    margin: auto;
+  }
+
+  .ql-snow.ql-toolbar {
+    /* display: block; */
+    background: #eaecec;
+    border-top-left-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+    width: 60%;
+  margin: auto;
+  }
+
+  .ql-editor {
+    min-height: 18em;
+  }
+
+  .container{
+    margin: 50px 300px;
+    
+  }
+  

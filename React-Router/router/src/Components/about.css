@@ -1,0 +1,33 @@
+@font-face {
+    font-family: Thin;
+    src: url(./Products/Poppins/Poppins-ExtraLight.ttf);
+}
+
+.about{
+width: 55%;
+border-radius: 20px;
+/* box-shadow: 5px 5px 40px 5px #1B3B4A;  */
+}
+
+.about-img{
+    width: 100%;
+    border-radius: 20px;
+    
+}
+
+.card-about{
+    margin-top: 125px;
+    background-color: rgba(245, 245, 245,0.2);
+}
+
+.dt{
+    font-size: 36px;
+    font-family: Thin ;
+    font-weight: lighter;
+    color: #244151;
+}
+
+.dl{
+    margin-top: 5px;
+    font-weight: lighter;
+}

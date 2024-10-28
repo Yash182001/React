@@ -1,0 +1,10 @@
+.text{
+    color: white;
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    font-size: 98px;
+    margin-left: 60px;
+    margin-top: 110px;
+    line-height: 100px;
+}

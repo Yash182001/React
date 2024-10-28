@@ -1,0 +1,22 @@
+.modal-button{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.table{
+    margin-top: 100px;
+}
+
+th{
+    text-align: center;
+    border-right: 1px dotted white;
+}
+
+td{
+    text-align: center;
+}
+
+.invoice-table{
+    margin-top: 0px;
+}
+

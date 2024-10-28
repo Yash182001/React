@@ -1,0 +1,87 @@
+@font-face {
+  font-family: Thin;
+  src: url(./Products/Poppins/Poppins-Light.ttf);
+}
+.form{
+    width: 35%;
+    border: none;
+    border-radius: 20px;
+    display: flex;
+    margin-top: 100px;
+    margin-left: 500px;
+    flex-direction: column;
+    box-shadow: 5px 5px 40px 5px #1B3B4A;  
+    background-color: rgba(245, 245, 245,0.2);}
+  
+ #name, #email, #password{
+    width: 65%;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    background-color: #eaeaea;
+    background-color: rgba(245, 245, 245,0);
+    
+  }
+  
+  .button-container{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 25px;
+    
+  }
+  
+  
+  .header{
+    text-align:  center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 32px;
+    color: #244151;
+    font-weight: 700;  
+    font-family: Thin;
+  }
+
+  .submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    background: #0f3443;
+    border-radius: 50px;
+    border: 1px solid #244151;
+    margin-left: 25px;
+    padding: 10px 20px;
+    font-weight: bold;
+    background-color: rgba(245, 245, 245,0);
+  }
+
+  .gray{
+    background-color: rgba(245, 245, 245,0);
+    color: black;
+  }
+
+  .fp{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 20px;
+    
+
+  }
+
+  .fp a{
+    text-decoration: none;
+    color: #244151;
+  }
+
+  .login-text{
+    display: flex;
+    align-items: center;
+    margin: auto;
+  }
+
+  .login-text a{
+    color: black;
+    text-decoration: none;
+  }

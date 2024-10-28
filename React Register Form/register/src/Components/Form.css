@@ -1,0 +1,21 @@
+.register{
+    position:fixed;
+    top: 20px;
+    left:50px;
+
+}
+
+.table{
+    margin-top: 200px;
+}
+
+th{
+    text-align: center;
+    border-right: 1px dotted white;
+}
+
+td{
+    text-align: center;
+}
+
+

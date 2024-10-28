@@ -1,0 +1,47 @@
+.truck{
+    position: fixed;
+    bottom: 20px;
+    width: 100px;
+    height: 80px;
+    animation: left-to-right 5s 1;
+    left: -110px;
+    
+}
+
+@keyframes left-to-right{
+    0%{
+        left: -110px;
+    }
+    100%{
+        left:110%
+    }
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.road{
+    position: fixed;
+    bottom: -30px;
+    width: 100%;
+    height: 100px;    
+   
+}
+
+.container-fluid{
+    position: fixed;
+    top: 50px;
+}
+
+.burger, .pizza, .coke{
+    height: 400px;
+    width: 450px;
+}
+
+.card{
+    border: none;
+}

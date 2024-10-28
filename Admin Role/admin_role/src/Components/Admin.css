@@ -1,0 +1,28 @@
+.roleName{
+    border-right: 1px solid black;
+}
+
+.top{
+    border-bottom: 1px solid black
+}
+
+.role{
+    width: 45%;
+    margin-left: 20px;
+}
+
+.checkbox-lg{
+    scale: 1.4;
+}
+
+td:hover{
+    cursor: pointer;
+}
+
+.update{
+    margin-left: 175px;
+}
+.required:after {
+    content:" *";
+    color: red;
+  }

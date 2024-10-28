@@ -1,0 +1,52 @@
+@font-face {
+    font-family: Thin;
+    src: url(./Products/Poppins/Poppins-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: Thin2;
+    src: url(./Products/post-no-bills/postnobillscolombo-light.ttf);
+}
+.card{
+   
+    background-color: rgba(245, 245, 245,0);
+    color: white;
+    border: none;
+    display: flex;
+    align-items: center;
+   
+    
+}
+
+.card-title{
+    font-size: 22px;
+    text-align: center;
+    color: #244151;
+    font-weight: lighter;
+    line-height: 25px;
+    font-family: Thin;
+}
+
+.card-text1{
+    font-size: 102px;
+    text-align: center;
+    font-family: Thin2;
+    line-height: 85px;
+    
+}
+
+.card-text{
+    text-align: center;
+    line-height: 20px;
+    width: 35%;
+    font-weight: lighter;
+   
+}
+
+.container-card{
+    /* border: 1px solid black; */
+    width:65%;
+    margin-left: 250px;
+    margin-top: 75px;
+    
+}

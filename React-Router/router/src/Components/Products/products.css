@@ -1,0 +1,13 @@
+.navbar2{
+    width: 60%;
+    margin-left: 180px;
+    margin-top: 50px;
+}
+
+.navbar-link{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    margin-left: 20px;
+    margin-right: 20px;
+}

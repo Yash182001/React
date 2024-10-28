@@ -1,0 +1,40 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blueviolet;
+    color: black;
+    height: 50px;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line,.area,.bar,.pie,.radar,.radial,.composed,.tree{
+    width:50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.area,.pie,.radial,.tree{
+       border-left: 1px solid black;
+}
+
+.container-fluid{
+    margin-top: 50px;
+}
+
+.doughnut{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}

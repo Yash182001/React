@@ -1,0 +1,68 @@
+
+.container{
+    width: 35%;
+    border: 1px solid black;
+    display: flex;
+    margin-top: 200px;
+    margin-left: 500px;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 5px 5px 40px 5px #0f3443;
+  }
+  
+ .name, .email, .password{
+    width: 65%;
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    background-color: #eaeaea;
+    
+  }
+  
+  .button-container{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 25px;
+  }
+  
+  
+  .header{
+    text-align:  center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 32px;
+    color: #0f3443;
+    font-weight: 700;
+    text-decoration-line: underline;   
+  }
+
+  .submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background: #0f3443;
+    border-radius: 50px;
+    margin-left: 25px;
+    padding: 10px 20px;
+  }
+
+  .gray{
+    background:#eaeaea;
+    color: #676767;
+  }
+
+  .fp{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 20px;
+
+  }
+
+  .fp a{
+    text-decoration: none;
+  }

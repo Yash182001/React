@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-bottom: 5vh;
+    text-align: center;
+    padding: 12px;
+    background-color: #282c34;
+
+}
+
+.container{
+    width: 60%;
+}

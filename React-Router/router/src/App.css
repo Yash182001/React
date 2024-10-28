@@ -1,0 +1,34 @@
+@font-face {
+  font-family: extralight;
+  src: url(./Components/Products/Poppins/Poppins-ExtraLight.ttf);
+}
+
+.navbar{
+  width: 100%;
+}
+
+
+.home-img{
+  width: 100%;
+  z-index: -1;
+  position:fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.navbar-brand{
+ font-size: 28px;
+ margin-left: 25px;
+ font-family: extralight;
+ }
+
+.navbar-nav{
+  margin-right: 25px;
+  margin-top: 5px;
+}
+
+.nav-item{
+  margin-right: 25px;
+  font-size: 18px;
+  font-family: extralight;
+}

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ec442cf.css",
+    "main.js": "/static/js/main.0babf1f4.js",
+    "static/js/453.3e49419c.chunk.js": "/static/js/453.3e49419c.chunk.js",
+    "static/media/about.jpg": "/static/media/about.ec0771dea7084be9d372.jpg",
+    "static/media/space1.jpg": "/static/media/space1.e2dbec9133698740fc47.jpg",
+    "static/media/postnobillscolombo-light.ttf": "/static/media/postnobillscolombo-light.eb08bbd781804067c156.ttf",
+    "static/media/Poppins-ExtraLight.ttf": "/static/media/Poppins-ExtraLight.333cb30c20e31999802a.ttf",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "index.html": "/index.html",
+    "main.5ec442cf.css.map": "/static/css/main.5ec442cf.css.map",
+    "main.0babf1f4.js.map": "/static/js/main.0babf1f4.js.map",
+    "453.3e49419c.chunk.js.map": "/static/js/453.3e49419c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ec442cf.css",
+    "static/js/main.0babf1f4.js"
+  ]
+}
